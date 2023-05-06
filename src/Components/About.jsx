@@ -11,16 +11,16 @@ const About = () => {
         <div className="max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8">
           <div className="sm:text-right">
             <p className="text-4xl text-bold inline border-b-4 border-pink-600">
-              Hi, This is who I am
+              About
             </p>
           </div>
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 py-6 px-6">
-          <div className="sm:text-right text-4xl font-bold shadow-lg shadow-[#040c16] bg-[#122c54]">
-            <img src={Nur} alt="Portfolio Photo" className="px-4 py-4" />
+          <div className="shadow-lg shadow-[#040c16] bg-[#122c54]">
+            <img src={Nur} alt="Portfolio Photo" className="px-2 py-2" />
           </div>
-          <div className="shadow-lg shadow-[#040c16] px-6 py-2">
+          <div className="shadow-lg shadow-[#040c16] px-6 py-4">
             <p>
               Hi! My name is Nur Haque, and I have a very big passion for
               creating software. My interest is in web development, and the
