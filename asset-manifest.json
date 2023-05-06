@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8bd68045.css",
-    "main.js": "/Portfolio/static/js/main.c91c8e21.js",
+    "main.css": "/Portfolio/static/css/main.a4ae18e8.css",
+    "main.js": "/Portfolio/static/js/main.62a490e7.js",
     "static/media/office-collaboration.jpg": "/Portfolio/static/media/office-collaboration.26aeb7dd44f8bef8f7a2.jpg",
     "static/media/Nur_Haque_Resume.pdf": "/Portfolio/static/media/Nur_Haque_Resume.5096dd7f114725805f81.pdf",
     "static/media/GSU.jpg": "/Portfolio/static/media/GSU.f8131b5255dadab6a90a.jpg",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/firebase.png": "/Portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "index.html": "/Portfolio/index.html",
-    "main.8bd68045.css.map": "/Portfolio/static/css/main.8bd68045.css.map",
-    "main.c91c8e21.js.map": "/Portfolio/static/js/main.c91c8e21.js.map"
+    "main.a4ae18e8.css.map": "/Portfolio/static/css/main.a4ae18e8.css.map",
+    "main.62a490e7.js.map": "/Portfolio/static/js/main.62a490e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bd68045.css",
-    "static/js/main.c91c8e21.js"
+    "static/css/main.a4ae18e8.css",
+    "static/js/main.62a490e7.js"
   ]
 }
