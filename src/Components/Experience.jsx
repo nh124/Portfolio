@@ -16,7 +16,7 @@ const Experience = ({ job_title, company, date_range, description }) => {
             {job_title}
           </span>
         </p>
-        <span className="text-lg font-norma text-stone-400">
+        <span className="flex flex-col">
           {description?.map((element, index) => {
             return (
               <ul class="list-disc" key={index}>

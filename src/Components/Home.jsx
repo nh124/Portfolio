@@ -28,12 +28,7 @@ const Home = () => {
             repeat={Infinity}
           />
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ea
-          delectus commodi vel illo tempore, atque iure enim, molestias amet
-          dolore incidunt libero, non ipsum adipisci minus recusandae impedit?
-          Harum!
-        </p>
+        <p className="text-[#8892b0] py-4 max-w-[700px]">I'm a full</p>
         <div>
           <button className="text-white group border-2 px-6 py-3 flex items-center hover:bg-pink-600 hover:border-pink-600">
             <Link to="about" smooth={true} duration={500}>
