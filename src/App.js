@@ -1,10 +1,10 @@
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 import About from "./Components/About";
-import Skills from "./Components/Skills";
-import Work from "./Components/Work";
+import Work from "./Components/Projects/Work";
 import Contact from "./Components/Contact";
-import Experiences from "./Components/Experiences";
+import Services from "./Components/Services/Services";
+import Companies from "./Components/Companies";
 
 function App() {
   return (
@@ -12,9 +12,9 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Experiences />
-      <Skills />
+      <Services />
       <Work />
+      <Companies />
       <Contact />
     </div>
   );
