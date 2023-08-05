@@ -1,6 +1,7 @@
 import React from "react";
 import { FaGlobe, FaReact, FaLinux } from "react-icons/fa";
 import { BsDatabaseAdd, BsFillCloudCheckFill } from "react-icons/bs";
+import { SiFlask } from "react-icons/si";
 import {
   SiTailwindcss,
   SiMysql,
@@ -45,6 +46,8 @@ const SingleService = ({ key, service }) => {
                   {tech === "Tailwind" && <SiTailwindcss size={40} />}
                   {tech === "NextJS" && <TbBrandNextjs size={40} />}
                   {tech === "Angular" && <FaAngular size={40} />}
+                  {tech === "Flask" && <SiFlask size={40} />}
+
                   {tech === "SpringBoot" && <SiSpring size={40} />}
                   {tech === "MySQL" && <SiMysql size={40} />}
                   {tech === "PS/QL" && <SiPostgresql size={40} />}

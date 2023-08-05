@@ -8,6 +8,7 @@ export const serviceDescription = [
       "2+ years of React",
       "2+ years of Angular",
       "2+ years of Node",
+      "2+ years of Tailwind",
     ],
   },
   {
@@ -27,7 +28,7 @@ export const serviceDescription = [
     title: "Cloud Development",
     description:
       "Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,",
-    tech: ["Linux", "DevOps", "AWS", "Asure"],
+    tech: ["Linux", "DevOps", "AWS", "Azure"],
     experiences: [
       "5+ years of Linux",
       "2+ years of AWS",

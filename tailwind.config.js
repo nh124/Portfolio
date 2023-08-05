@@ -18,6 +18,7 @@ module.exports = {
     extend: {
       animation: {
         typing: "typing 2s steps(14), blink 0.1s infinite",
+        spinning: "spin 5s linear infinite",
       },
       keyframes: {
         typing: {
@@ -27,6 +28,10 @@ module.exports = {
         blink: {
           from: { borderColor: "transparent" },
           to: { borderColor: "white" },
+        },
+        spinning: {
+          from: { transform: "rotate( 0deg)" },
+          to: { transform: "rotate( 360deg)" },
         },
       },
     },

@@ -1,4 +1,4 @@
-import React from "react";
+import { React, useState, useEffect } from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { TypeAnimation } from "react-type-animation";
 import { Link } from "react-scroll";
@@ -10,7 +10,14 @@ import Resume from "../Assets/Nur_Haque_Resume.pdf";
 const Home = () => {
   const onClickHandler = () => {
     navigator.clipboard.writeText("nur.haque99@gmail.com");
+    setGmailState("Gmail Copied!!");
   };
+  const [gmailState, setGmailState] = useState("Gmail");
+  useEffect(() => {
+    setTimeout(() => {
+      setGmailState("Gmail");
+    }, 1000);
+  }, [gmailState]);
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       <div className="max-w-[1400px] mx-auto px-8 flex flex-row justify-center h-full items-center">
@@ -67,8 +74,8 @@ const Home = () => {
                 onClick={onClickHandler}
               >
                 <SiGmail color="white" size={20} />
-                <span className="absolute top-12  opacity-0 group-hover:opacity-100 transition-all ease-in-out delay-150 duration-300 text-red-400 left-1/2 transform -translate-x-1/2">
-                  Gmail
+                <span className="absolute top-12  opacity-0 group-hover:opacity-100 transition-all ease-in-out delay-150 duration-300 text-red-400 left-1/2 transform -translate-x-1/2 whitespace-nowrap">
+                  {gmailState}
                 </span>
               </button>
               <a
@@ -79,7 +86,7 @@ const Home = () => {
               >
                 <BsFillPersonLinesFill color="white" size={25} />
                 <span className="absolute mt-9  opacity-0 group-hover:opacity-100 transition-all ease-in-out delay-150 duration-300 text-gray-400">
-                  linkedin
+                  Resume
                 </span>
               </a>
             </div>
