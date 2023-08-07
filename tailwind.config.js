@@ -23,7 +23,7 @@ module.exports = {
       keyframes: {
         typing: {
           from: { width: "0" },
-          to: { width: "14ch" },
+          to: { width: "300ch" },
         },
         blink: {
           from: { borderColor: "transparent" },
