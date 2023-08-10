@@ -24,7 +24,7 @@ const Work = () => {
                   project={project}
                 />
               )}
-              {(index === 0 || index === 2) && (
+              {(index === 1 || index === 2) && (
                 <Project key={index} project={project} />
               )}
             </>

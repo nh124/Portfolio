@@ -13,7 +13,7 @@ const Services = () => {
       className="bg-[#040d1b] flex flex-col w-full h-screen justify-end items-center text-white max-md:h-[200vh] max-md:relative max-sm:h-[250vh]"
     >
       <div className="w-[1200px] h-[100%] absolute flex flex-col justify-center items-center max-lg:w-[750px] max-xl:w-[1000px] max-md:w-[100%]">
-        <div className="w-full h-[700px] flex flex-row items-center bg-[#102341] rounded-lg max-md:h-[90%] max-md:flex-col max-md:gap-4 max-md:w-[90%] py-3">
+        <div className="w-full h-[700px] flex flex-row items-center bg-[#102341] rounded-lg max-md:h-[90%] max-md:flex-col max-md:gap-4 max-md:w-[90%] py-3 shadow-3xl">
           {serviceDescription.map((service, index) => {
             return (
               <>

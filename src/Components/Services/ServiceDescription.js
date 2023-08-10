@@ -2,7 +2,7 @@ export const serviceDescription = [
   {
     title: "Frontend Development",
     description:
-      "Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,",
+      "I love designing frontend designs and bringing them to life in the form of a web application",
     tech: ["React", "Tailwind", "NextJS", "Angular"],
     experiences: [
       "2+ years of React",
@@ -14,7 +14,7 @@ export const serviceDescription = [
   {
     title: "Backend Development",
     description:
-      "Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,",
+      "I value web application that are secure and efficient in storing user data in backend storages and make it seemsless to reaccess",
     tech: ["SpringBoot", "Flask", "MySQL", "PS/QL"],
     experiences: [
       "2+ years of Java-SpringBoot",
@@ -27,7 +27,7 @@ export const serviceDescription = [
   {
     title: "Cloud Development",
     description:
-      "Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,Love Frontend Development,",
+      "Having a goodcloud infrastructure, and integrating various cloud services makes it easy to optimize performance, security, and cost-efficiency. ",
     tech: ["Linux", "DevOps", "AWS", "Azure"],
     experiences: [
       "5+ years of Linux",

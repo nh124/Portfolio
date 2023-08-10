@@ -8,44 +8,45 @@ export const projectData = [
     name: "Campus Connect",
     description:
       "A website that connects, offers navigation, restaurants recommendations, and Chat Services",
+    type: "Full-Stack Project",
+    URL: {
+      github: "https://github.com/nh124",
+      externalLink: "https://github.com/nh124",
+    },
 
-    URL: [
-      { name: "github", URL: "https://github.com/nh124" },
-      { name: "web", URL: "https://github.com/nh124" },
-    ],
     img: "https://github.com/nh124/Portfolio/blob/master/src/Assets/CampusProject.jpg?raw=true",
   },
   {
-    name: "Campus Connect",
+    name: "PacMan",
     description:
       "A website that connects, offers navigation, restaurants recommendations, and Chat Services",
-
-    URL: [
-      { name: "github", URL: "https://github.com/nh124" },
-      { name: "web", URL: "https://github.com/nh124" },
-    ],
-    img: { UnclesTimeMuseum },
+    type: "Full-Stack Project",
+    URL: {
+      github: "https://github.com/nh124/PacMan",
+      externalLink: "https://nh124.github.io/PacMan/",
+    },
+    img: "https://github.com/nh124/Portfolio/blob/master/src/Assets/PacMan.png?raw=true",
   },
   {
-    name: "Campus Connect",
+    name: "Uncle's Time Museum",
     description:
       "A website that connects, offers navigation, restaurants recommendations, and Chat Services",
-
-    URL: [
-      { name: "github", URL: "https://github.com/nh124" },
-      { name: "web", URL: "https://github.com/nh124" },
-    ],
-    img: { PacMan },
+    type: "Full-Stack Project",
+    URL: {
+      github: "https://github.com/GSU-CSC4821-time-museum/time-museum",
+      externalLink: "https://ttoth1.github.io/time_museum_clone/",
+    },
+    img: "https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/UnclesTimeMuseum.png",
   },
   {
-    name: "Campus Connect",
+    name: "Music",
     description:
       "A website that connects, offers navigation, restaurants recommendations, and Chat Services",
-
-    URL: [
-      { name: "github", URL: "https://github.com/nh124" },
-      { name: "web", URL: "https://github.com/nh124" },
-    ],
-    img: { Music },
+    type: "Frontend Project",
+    URL: {
+      github: "https://github.com/nh124",
+      externalLink: "https://github.com/nh124",
+    },
+    img: "https://github.com/nh124/Portfolio/blob/master/src/Assets/Music.png?raw=true",
   },
 ];
