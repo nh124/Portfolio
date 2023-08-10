@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.01a512c5.css",
-    "main.js": "/Portfolio/static/js/main.5d48e417.js",
+    "main.css": "/Portfolio/static/css/main.9d7f2bae.css",
+    "main.js": "/Portfolio/static/js/main.7fdc7f63.js",
     "static/media/video.mp4": "/Portfolio/static/media/video.3ccf39cfd632a7efd091.mp4",
     "static/media/Nur.png": "/Portfolio/static/media/Nur.e1f48e8aa40299f99887.png",
     "static/media/CampusProject.jpg": "/Portfolio/static/media/CampusProject.0d6ac3bf3355196250bd.jpg",
+    "static/media/Music.png": "/Portfolio/static/media/Music.dd30beff8720f4c28b2f.png",
     "static/media/Nur_Haque_Resume.pdf": "/Portfolio/static/media/Nur_Haque_Resume.5096dd7f114725805f81.pdf",
     "static/media/DFG.png": "/Portfolio/static/media/DFG.8bc954b870d047ab73ff.png",
     "static/media/HackUGA.png": "/Portfolio/static/media/HackUGA.e7ad91e6cc4a8c0bfa08.png",
+    "static/media/PacMan.png": "/Portfolio/static/media/PacMan.f3849b30f578852d028a.png",
     "static/media/HackGSU.png": "/Portfolio/static/media/HackGSU.40a6d719d059e7d924cc.png",
     "static/media/KK.png": "/Portfolio/static/media/KK.51de14eda455f88bbb1d.png",
+    "static/media/UnclesTimeMuseum.png": "/Portfolio/static/media/UnclesTimeMuseum.f22d6b7d3c354edd194e.png",
     "static/media/Belcan.svg": "/Portfolio/static/media/Belcan.f4efae73b3389b2cd76938be7dd09174.svg",
     "index.html": "/Portfolio/index.html",
-    "main.01a512c5.css.map": "/Portfolio/static/css/main.01a512c5.css.map",
-    "main.5d48e417.js.map": "/Portfolio/static/js/main.5d48e417.js.map"
+    "main.9d7f2bae.css.map": "/Portfolio/static/css/main.9d7f2bae.css.map",
+    "main.7fdc7f63.js.map": "/Portfolio/static/js/main.7fdc7f63.js.map"
   },
   "entrypoints": [
-    "static/css/main.01a512c5.css",
-    "static/js/main.5d48e417.js"
+    "static/css/main.9d7f2bae.css",
+    "static/js/main.7fdc7f63.js"
   ]
 }
