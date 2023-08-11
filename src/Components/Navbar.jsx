@@ -23,7 +23,7 @@ const Navbar = () => {
 
   const handleClick = () => setNav(!nav);
   return (
-    <div className="fixed w-full h-[80px] flex justify-end items-center px-4 bg-[#0a192f] bg-opacity-50 text-gray-300 z-20">
+    <div className="fixed w-full h-[80px] flex justify-end items-center px-4 bg-[#0a192f] bg-opacity-50 text-gray-300 z-20 max-sm:h-[60px]">
       <div className="absolute top-5 left-5">
         <img className="w-[70px] max-sm:w-[40px]" src={logo} alt="logo" />
       </div>
@@ -107,17 +107,6 @@ const Navbar = () => {
           >
             Companies
           </Link>
-        </li>
-        <li className="py-6 text-4xl">
-          <a
-            className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-3 py-3 my-8 mx-auto flex items-center group"
-            duration={500}
-            download={"Resume"}
-            href={Resume}
-            target="_blank"
-          >
-            Resume
-          </a>
         </li>
       </ul>
       {/* social icons */}
