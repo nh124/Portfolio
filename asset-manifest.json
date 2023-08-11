@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9d7f2bae.css",
-    "main.js": "/Portfolio/static/js/main.7fdc7f63.js",
+    "main.css": "/Portfolio/static/css/main.f5db29bc.css",
+    "main.js": "/Portfolio/static/js/main.31d2fc3d.js",
     "static/media/video.mp4": "/Portfolio/static/media/video.3ccf39cfd632a7efd091.mp4",
     "static/media/Nur.png": "/Portfolio/static/media/Nur.e1f48e8aa40299f99887.png",
     "static/media/CampusProject.jpg": "/Portfolio/static/media/CampusProject.0d6ac3bf3355196250bd.jpg",
@@ -15,11 +15,11 @@
     "static/media/UnclesTimeMuseum.png": "/Portfolio/static/media/UnclesTimeMuseum.f22d6b7d3c354edd194e.png",
     "static/media/Belcan.svg": "/Portfolio/static/media/Belcan.f4efae73b3389b2cd76938be7dd09174.svg",
     "index.html": "/Portfolio/index.html",
-    "main.9d7f2bae.css.map": "/Portfolio/static/css/main.9d7f2bae.css.map",
-    "main.7fdc7f63.js.map": "/Portfolio/static/js/main.7fdc7f63.js.map"
+    "main.f5db29bc.css.map": "/Portfolio/static/css/main.f5db29bc.css.map",
+    "main.31d2fc3d.js.map": "/Portfolio/static/js/main.31d2fc3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d7f2bae.css",
-    "static/js/main.7fdc7f63.js"
+    "static/css/main.f5db29bc.css",
+    "static/js/main.31d2fc3d.js"
   ]
 }
